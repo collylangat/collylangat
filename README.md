@@ -2,7 +2,7 @@
 Software engineer. I build software that doesn't just work but scales. 
 I spend most of my time in **.Net, Golang, React**
 Bsc. in Computer Science(DeKUT).
----
+
 ## Tech stack
 ### Frontend
 React - Javascript - HTML/CSS
