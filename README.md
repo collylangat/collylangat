@@ -4,20 +4,29 @@ I spend most of my time in **.Net, Golang, React**
 Bsc. in Computer Science(DeKUT).
 
 ## Tech stack
+
 ### Frontend
+
 React - Javascript - HTML/CSS
+
 ### Backend
+
 .Net, REST, Gin,
+
 ### Languages
+
 Typescript, C#, SQL, Golang
+
 ### Tools
+
 AWS, Azure, Docker, 
+
 ## Slected projects
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/langat-kipngeno-72aa2a176) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/collylangat) 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=collylangat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
