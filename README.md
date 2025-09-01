@@ -1,13 +1,22 @@
 ## Hi, I'm Ngenii
-Software engineer
-Bsc. in Computer Science(DeKUT)
-
+Software engineer. I build software that doesn't just work but scales. 
+I spend most of my time in **.Net, Golang, React**
+Bsc. in Computer Science(DeKUT).
+---
+## Tech stack
+### Frontend
+React - Javascript - HTML/CSS
+### Backend
+.Net, REST, Gin,
+### Languages
+Typescript, C#, SQL, Golang
+### Tools
+AWS, Azure, Docker, 
+## Slected projects
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/langat-kipngeno-72aa2a176) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/collylangat) 
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=collylangat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
